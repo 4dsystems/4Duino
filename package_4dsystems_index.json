@@ -1,0 +1,103 @@
+{
+    "packages": [
+        {
+            "name": "4D Systems",
+            "maintainer": "4D Systems",
+            "websiteURL": "http://www.4dsystems.com.au",
+            "email": "engineering@4dsystems.com.au",
+            "help": {
+                "online": "http://forum.4dsystems.com.au"
+            },
+            "platforms": [
+                {
+                    "name": "4D Systems AVR Boards",
+                    "architecture": "avr",
+                    "version": "1.6.7",
+                    "category": "4D Systems",
+                    "url": "https://www.4dsystems.com.au/downloads/4Duino/4dsystems-1.6.7.tar.bz2",
+                    "archiveFileName": "4dsystems-1.6.7.tar.bz2",
+                    "checksum": "SHA-256:ab784e2d8d512bc7b01562e27ba998c54cb6f6fc08d6ae1a9a7a446543ab35ba",
+                    "size": "147456",
+                    "help": {
+                        "online": "http://forum.4dsystems.com.au"
+                    },
+                    "boards": [
+                        {
+                            "name": "4Duino - 2.4"
+                        }
+                    ],
+                    "toolsDependencies": [
+                        {
+                            "packager": "arduino",
+                            "name": "avr-gcc",
+                            "version": "4.8.1-arduino5"
+                        },
+                        {
+                            "packager": "arduino",
+                            "name": "avrdude",
+                            "version": "6.0.1-arduino5"
+                        }
+                    ]
+                },
+				{
+                    "name": "4D Systems AVR Boards",
+                    "architecture": "avr",
+                    "version": "1.6.10",
+                    "category": "4D Systems",
+                    "url": "https://www.4dsystems.com.au/downloads/4Duino/4dsystems-1.6.10.tar.bz2",
+                    "archiveFileName": "4dsystems-1.6.10.tar.bz2",
+                    "checksum": "SHA-256:0cf567eca16458bcb5d4ef3247d66b45e8dbf5916e88024e476add85604d7977",
+                    "size": "155648",
+                    "help": {
+                        "online": "http://forum.4dsystems.com.au"
+                    },
+                    "boards": [
+                        {
+                            "name": "4Duino - 2.4"
+                        }
+                    ],
+                    "toolsDependencies": []
+                },
+				{
+                    "name": "4D Systems AVR Boards",
+                    "architecture": "avr",
+                    "version": "1.6.12",
+                    "category": "4D Systems",
+                    "url": "https://www.4dsystems.com.au/downloads/4Duino/4dsystems-1.6.12.tar.bz2",
+                    "archiveFileName": "4dsystems-1.6.12.tar.bz2",
+                    "checksum": "SHA-256:2cf420a01e28b289c19ed1523a8a475b8ea0c971b3bd3eba6122f52343b153d2",
+                    "size": "155648",
+                    "help": {
+                        "online": "http://forum.4dsystems.com.au"
+                    },
+                    "boards": [
+                        {
+                            "name": "4Duino - 2.4"
+                        }
+                    ],
+                    "toolsDependencies": []
+                },
+				{
+                    "name": "4D Systems AVR Boards",
+                    "architecture": "avr",
+                    "version": "1.8.1",
+                    "category": "4D Systems",
+                    "url": "https://www.4dsystems.com.au/downloads/4Duino/4dsystems-1.8.1.tar.bz2",
+                    "archiveFileName": "4dsystems-1.8.1.tar.bz2",
+                    "checksum": "SHA-256:7428ddcf93b0ace8eeb414290e1b4c2935e4f403d117ebc77dea73d36d93b58d",
+                    "size": "135168",
+                    "help": {
+                        "online": "http://forum.4dsystems.com.au"
+                    },
+                    "boards": [
+                        {
+                            "name": "4Duino - 2.4"
+                        }
+                    ],
+                    "toolsDependencies": []
+                }
+            ],
+            "tools": []
+        }
+    ]
+}
